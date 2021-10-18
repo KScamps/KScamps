@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KScamps
 - 👀 I’m new here
-- 🌱 I’m currently learning how to engineer (again)
+- 🌱 I’m currently learning how this all works (again)
 
 
 <!---
